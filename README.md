@@ -1,4 +1,3 @@
-
 # Programación Móvil
 **Código:** PROGRAMACION-MOVIL-2025-B-G1 | **Período:** 2025-B | **Grupo:** G1
 
