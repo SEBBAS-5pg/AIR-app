@@ -15,6 +15,7 @@ qa/
 ├── 📊 test-reports/          # Reportes de testing
 ├── 🐛 bug-reports/           # Reportes de bugs documentados
 ├── ✅ acceptance-tests/      # Pruebas de criterios de aceptación
+├── 🔧 test-config/           # Configuración de entornos de testing
 └── 📋 checklist/            # Listas de verificación para releases
 ```
 
